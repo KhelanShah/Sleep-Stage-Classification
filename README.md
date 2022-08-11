@@ -3,9 +3,9 @@
 
 CREATE VIRTUAL ENVIRONMENT WITH CONDA
 
-conda create -n tinysleepnet python=3.6
-conda activate tinysleepnet
-pip install -r requirements.txt
+conda create -n tinysleepnet python=3.6 //
+conda activate tinysleepnet //
+pip install -r requirements.txt  //
 
 HOW TO RUN 
 
