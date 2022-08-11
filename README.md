@@ -1,11 +1,10 @@
 # Sleep-Stage-Classification
 
-
 CREATE VIRTUAL ENVIRONMENT WITH CONDA
 
-conda create -n tinysleepnet python=3.6 //
-conda activate tinysleepnet //
-pip install -r requirements.txt  //
+1.conda create -n tinysleepnet python=3.6 
+2.conda activate tinysleepnet 
+3.pip install -r requirements.txt  
 
 HOW TO RUN 
 
